@@ -14,7 +14,7 @@ const Login = () => {
     <View style={styles.container}>
       <View style={[styles.halfContainer, styles.upBackground]}>
         <Image
-          source={require("../assets/logotipo.png")}
+          source={require("../../assets/logotipo.png")}
           style={styles.image}
         />
       </View>
@@ -49,7 +49,12 @@ const Login = () => {
             style={[
               styles.textInput,
               styles.inputWithBottomBorder2,
-              { color: "rgba(0, 0, 0, 0.8)", fontSize: 17, letterSpacing: 0.8,paddingBottom: 30 },
+              {
+                color: "rgba(0, 0, 0, 0.8)",
+                fontSize: 17,
+                letterSpacing: 0.8,
+                paddingBottom: 30,
+              },
             ]}
           >
             Senha
