@@ -16,4 +16,5 @@ Seu desenvolvimento foi a partir da cópia do APP. As imagens nao encontrei disp
 
 Tela ao iniciar o aplicativo:
 <br/>
-![splash](https://github.com/marceloabbadia/contaazulapp/assets/112344339/395d23ef-3df8-4058-926e-a4a32a0c1374)
+
+![splash](https://github.com/marceloabbadia/contaazulapp/assets/112344339/42def0f0-a0b2-42a6-b275-23f9abe2f5a7)
