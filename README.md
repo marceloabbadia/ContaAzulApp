@@ -12,3 +12,8 @@ Segunda tela do aplicativo:
 
 Seu desenvolvimento foi a partir da cópia do APP. As imagens nao encontrei disponível na internet (Do aplicativo de bolso)
 <img width="1749" alt="Captura de Tela 2023-06-19 às 23 34 42" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/b38dbe8f-728b-4ead-b671-e80fd0a2889f">
+
+
+Tela ao iniciar o aplicativo:
+<br/>
+![splash](https://github.com/marceloabbadia/contaazulapp/assets/112344339/395d23ef-3df8-4058-926e-a4a32a0c1374)
