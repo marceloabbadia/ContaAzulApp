@@ -17,6 +17,9 @@ Tela do financeiro:
 
 <img width="1183" alt="Captura de Tela 2023-06-20 às 22 06 53" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/ed40d994-a8bd-49e9-a1e2-0365c663a992">
 
+Tela de cadastro:
+<img width="1183" alt="Captura de Tela 2023-06-20 às 22 24 22" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/312c84c9-0ff9-4f3e-9a85-c7df8bffd29f">
+
 
 Seu desenvolvimento foi a partir da cópia do APP. As imagens nao encontrei disponível na internet (Do aplicativo de bolso)
 <br/>
