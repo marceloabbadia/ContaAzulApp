@@ -7,9 +7,13 @@ Tela de login
 <img width="1183" alt="Captura de Tela 2023-06-20 às 13 04 27" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/250ba08a-f486-4765-81f4-a90d68378e6a">
 <br/>
 
-Segunda tela de vendas:
+Tela de vendas:
 <br/>
 <img width="1183" alt="Captura de Tela 2023-06-20 às 21 15 40" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/6c2d8485-9b03-43f2-bbbd-8cfe573b63cf">
+
+tela do financeiro:
+<br/>
+<img width="1183" alt="Captura de Tela 2023-06-20 às 22 00 54" src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/9e7a1dc2-9273-451e-949a-552b572f969b">
 
 
 Seu desenvolvimento foi a partir da cópia do APP. As imagens nao encontrei disponível na internet (Do aplicativo de bolso)
