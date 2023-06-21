@@ -6,8 +6,8 @@ import Financeiro from "./src/screens/financeiro";
 export default function App() {
   return (
     <>
-      {/* <Financeiro /> */}
-      <Vendas />
+      <Financeiro />
+      {/* <Vendas /> */}
       {/* <Login /> */}
       <StatusBar style="auto" />
     </>

@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
     shadowRadius: 1,
+    borderRadius: 5,
   },
   boxRight: {
     width: 175,
@@ -49,6 +50,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
     shadowRadius: 1,
+    borderRadius: 5,
   },
   textLeft: {
     left: 20,
