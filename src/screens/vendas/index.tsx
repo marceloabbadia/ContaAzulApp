@@ -3,8 +3,8 @@ import { View, Text, TouchableOpacity } from "react-native";
 import styles from "./style";
 import { FontAwesome5 } from "@expo/vector-icons";
 import { Octicons } from "@expo/vector-icons";
-import { MaterialCommunityIcons } from "@expo/vector-icons";
-import Footer from "../footer";
+import Footer from "../../components/footer";
+
 
 const Vendas = () => {
   const handleButtonPress = () => {};
@@ -20,7 +20,7 @@ const Vendas = () => {
           <TouchableOpacity onPress={handleButtonPress}>
             <View style={styles.boxLeft}>
               <View style={styles.iconLeft}>
-                <FontAwesome5 name="handshake" size={24} color="#1A69C7"  />
+                <FontAwesome5 name="handshake" size={24} color="#1A69C7" />
               </View>
               <View>
                 <Text style={styles.textLeft}>Orçamentos e</Text>

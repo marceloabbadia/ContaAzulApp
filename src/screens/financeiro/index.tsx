@@ -5,7 +5,7 @@ import { FontAwesome5 } from "@expo/vector-icons";
 import { Octicons } from "@expo/vector-icons";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
-import Footer from "../footer";
+import Footer from "../../components/footer";
 
 const Financeiro = () => {
   const handleButtonPress = () => {};

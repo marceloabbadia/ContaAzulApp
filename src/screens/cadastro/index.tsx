@@ -4,7 +4,7 @@ import styles from "./style";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { Feather } from "@expo/vector-icons";
 
-import Footer from "../footer";
+import Footer from "../../components/footer";
 
 const Cadastro = () => {
   const handleButtonPress = () => {};
