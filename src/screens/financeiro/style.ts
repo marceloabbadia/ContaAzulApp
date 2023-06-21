@@ -71,18 +71,20 @@ const styles = StyleSheet.create({
     fontSize: 17,
     top: -20,
     fontWeight: "300",
+    letterSpacing: 0.6,
   },
   textRight: {
     left: 20,
     fontSize: 17,
     top: -20,
     fontWeight: "300",
+    letterSpacing: 0.6,
   },
-    textRight2: {
-      left: 16,
-      fontSize: 17,
-      top: -20,
-      fontWeight: "300",
+  textRight2: {
+    left: 16,
+    fontSize: 17,
+    top: -20,
+    fontWeight: "300",
   },
   iconLeft: {
     left: 20,
