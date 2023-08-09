@@ -31,4 +31,4 @@
 
 <p>Tela splash do aplicativo:</p>
 <br/>
-![splash](https://github.com/marceloabbadia/contaazulapp/assets/112344339/42def0f0-a0b2-42a6-b275-23f9abe2f5a7)
+<img src="https://github.com/marceloabbadia/contaazulapp/assets/112344339/42def0f0-a0b2-42a6-b275-23f9abe2f5a7">
